@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Ahmer Najam
 
-<!--
-**ahmer-online/ahmer-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer and solution architect in Karachi, Pakistan, building custom software, web apps, MVPs and SaaS products for clients worldwide. 20+ years in corporate IT, including 8 ERP implementations.
 
-Here are some ideas to get you started:
+**Stack:** React · Angular · Node.js · MongoDB · Docker · Flutter · n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+
+- [Custom software development](https://ahmer-najam.net/custom-software-development/)
+- [Website development](https://ahmer-najam.net/website-development/)
+- [MVP & SaaS development](https://ahmer-najam.net/mvp-saas-development/)
+- [Business automation with n8n and AI](https://ahmer-najam.net/n8n-ai-business-automation/)
+- [Flutter mobile app development](https://ahmer-najam.net/flutter-mobile-app-development/)
+
+### Read
+
+- [Website vs web app: a practical guide](https://ahmer-najam.net/website-and-application-development/)
+- [What drives the cost of custom software](https://ahmer-najam.net/custom-software-development-cost/)
+
+### Contact
+
+Portfolio: [ahmer-najam.net](https://ahmer-najam.net/) · [Upwork](https://www.upwork.com/freelancers/ahmernajam) · [LinkedIn](https://www.linkedin.com/in/ahmer-najam-jilani/)
